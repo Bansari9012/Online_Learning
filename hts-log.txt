@@ -1,0 +1,16 @@
+HTTrack3.49-2+htsswf+htsjava launched on Sat, 15 Apr 2023 13:57:55 at https://preview.colorlib.com/theme/courses/index.html +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://preview.colorlib.com/theme/courses/index.html -O1 "C:\My Web Sites\Education" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+13:58:28	Error: 	"Not Found" (404) at link https://preview.colorlib.com/theme/courses/site.webmanifest (from https://preview.colorlib.com/theme/courses/index.html)
+13:58:48	Error: 	"Bad Request" (400) at link https://preview.colorlib.com/cdn-cgi/zaraz/s.js?z= (from https://preview.colorlib.com/theme/courses/index.html)
+13:59:10	Error: 	"Not Found" (404) at link https://preview.colorlib.com/theme/courses/assets/img/gallery/about.png (from https://preview.colorlib.com/theme/courses/index.html)
+13:59:10	Error: 	"Not Found" (404) at link https://preview.colorlib.com/theme/courses/services.html (from https://preview.colorlib.com/theme/courses/index.html)
+13:59:11	Error: 	"Not Found" (404) at link https://preview.colorlib.com/theme/courses/"https://maps.gstatic.com/mapfiles/openhand_8_8.cur" (from https://preview.colorlib.com/theme/courses/contact.html)
+
+HTTrack Website Copier/3.49-2 mirror complete in 1 minutes 16 seconds : 167 links scanned, 161 files written (9486096 bytes overall) [7530993 bytes received at 99092 bytes/sec], 3275894 bytes transferred using HTTP compression in 84 files, ratio 36%, 41.7 requests per connection
+(5 errors, 0 warnings, 0 messages)
